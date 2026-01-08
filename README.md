@@ -16,3 +16,18 @@ A full-featured e-commerce application built with React, featuring product catal
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Key Features
+
+### Complete Shopping Experience
+- Product Catalog: Grid/list views of all products
+- Product Details: Detailed view with images, descriptions, ratings
+- Shopping Cart: Add/remove items with persistent storage
+- Favorites/Wishlist: Save products for later
+- Stock Management: Real-time inventory tracking
+
+### Advanced Routing
+- Nested Routes: Products with dynamic product details
+- Dynamic Navigation: Active link highlighting with animations
+- 404 Error Handling: Custom error pages
+- SPA Navigation: Smooth transitions between pages
